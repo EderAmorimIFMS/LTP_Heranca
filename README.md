@@ -1,4 +1,4 @@
-# Lista da diciplina Programação para dispositivos moveis.
+# Lista de Linguagem e técnicas de programação.
 
  ### Tecnologias usuadas:
  - JavaScript (Classes, objetos, herança de atributos)
